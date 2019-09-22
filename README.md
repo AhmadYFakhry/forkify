@@ -1,4 +1,4 @@
-# forkify v1.0
+# forkify v0.1
 
 Forkify is a simple web application that searches for specific recipes based on input. The application uses HTML5, CSS, JavaScript, Webpack as well as Babel.
 
